@@ -12,3 +12,15 @@ Here is a link to Project Euler: https://projecteuler.net/about
 Any further information which I may add will be posted in this section of the README file. Below I will provide the link to the problems and comments about how I got along and any improvements I want to make or have made.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////
+
+Problem 1: Multiples of 3 and 5
+
+Link to problem: http://projecteuler.net/problem=1
+
+Comments -
+
+This problem was simple to solve and didn’t take a long time to find the answer (1ms). I can't see how I could improve my solution any further.
+
+Overall, a good problem to get the ball rolling!
+
+///////////////////////////////////////////////////////////////////////////////////////////////
