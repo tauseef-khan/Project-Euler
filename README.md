@@ -36,3 +36,17 @@ This problem was again very enjoyable and didn’t take long to solve (2ms). I d
 Overall, another problem solved easily.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////
+
+Problem 3: Largest prime factor
+
+Link to problem: https://projecteuler.net/problem=3
+
+Comments -
+
+This problem was a bit more of a challenge then the previous two. I set about finding an algorithm to solve the solution. I came across the Sieve of Eratosthenes, but the problem was the number I wanted to find out the answer to was too large (600851475143) to fit into memory. So I then looked at the Sieve of Sorenson which is slower but a more space-efficient sieve. The problem with the Sieve of Sorenson was that it was a bit too complex for me to implement. So I settled with a method I had used in school, integer factorization. It served me well and I used same idea as the user called xisk on the following post to implement my solution:
+
+http://math.stackexchange.com/questions/389675/largest-prime-factor-of-600851475143
+
+Overall, it was a tricky problem to solve as I wanted something efficient but I was unable to implement it, my current solution takes about 20ms to solve. I definitely think I can make further improvements to bring down the time taken to solve the problem by implementing the Sieve of Sorenson, which I may look into the future.
+
+///////////////////////////////////////////////////////////////////////////////////////////////
