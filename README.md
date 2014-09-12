@@ -24,3 +24,15 @@ This problem was simple to solve and didn’t take a long time to find the answe
 Overall, a good problem to get the ball rolling!
 
 ///////////////////////////////////////////////////////////////////////////////////////////////
+
+Problem 2: Even Fibonacci numbers
+
+Link to problem: https://projecteuler.net/problem=2
+
+Comments -
+
+This problem was again very enjoyable and didn’t take long to solve (2ms). I don’t think I can improve it any further. It already computes the answer pretty fast.
+
+Overall, another problem solved easily.
+
+///////////////////////////////////////////////////////////////////////////////////////////////
