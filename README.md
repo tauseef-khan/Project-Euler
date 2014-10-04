@@ -50,3 +50,15 @@ http://math.stackexchange.com/questions/389675/largest-prime-factor-of-600851475
 Overall, it was a tricky problem to solve as I wanted something efficient but I was unable to implement it, my current solution takes about 20ms to solve. I definitely think I can make further improvements to bring down the time taken to solve the problem by implementing the Sieve of Sorenson, which I may look into the future.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////
+
+Problem 4: Largest palindrome product
+
+Link to problem: https://projecteuler.net/problem=4
+
+Comments -
+
+The solution to the problem was easy to come up with but very inefficient with big-O notation of O(n^”). I need to improve my ability to think more efficiently because too often I revert to the trusty loop with a loop technique to solve problems. I think one tactic I might use is to come up with a solution whatever way I can and then make it as efficient as I possibly can. 
+
+Overall, an easy problem to solve but further improvements with efficiency need to be made, which will require some further research some point in the future. 
+
+///////////////////////////////////////////////////////////////////////////////////////////////
